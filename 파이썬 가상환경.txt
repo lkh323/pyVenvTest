@@ -45,3 +45,5 @@ pip install -r requirements.txt
 
 11. 가상 환경 내 패키지 목록 조회
 pip list --local
+
+12. 
